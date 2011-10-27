@@ -1,0 +1,35 @@
+English version below
+
+
+Ceci est un premier projet Android.
+
+SI VOUS AVEZ DES REMARQUES OU DES IDEES, merci de me les communiquer à david.maulat@gmail.com .
+
+Puisqu'il n'en existe pas à ce jour, je souhaite créer une application Android pour les Restos du Coeur. Les fonctionnalités seront les suivantes :
+- déclarer une personne dans le besoin (froid, faim,...), avec photo et géolocalisation. Nécessité d'être un utilisateur enregistré pour éviter les abus
+- don de nourriture ou de vêtements
+- liste des centres de don ou d'accueil
+- faire un don (paiement sécurisé)
+- proposer mon aide et savoir où sont les besoins
+- informations sur les collectes et actions spéciales
+- inscription / login pour éviter les abus (OpenId, Google, Facebook)
+- administration (ajout d'un moyen de paiement, etc...)
+- informations sur les besoins actuels (dons d'argent, de nourriture ou de vêtements)
+- informations sur l'action des Restos du Coeur et les moyens de les aider
+
+==================================
+
+IF YOU HAVE COMMENTS OR IDEAS ON THIS PROJECT, please drop me a line at david.maulat@gmail.com .
+
+This is a first Android project. Its goal is to create an application for a french caritative association, the Restos du Coeur (restaurants of the heart)
+Its functionalities will be:
+- report a person in need (photo + geo tag + logged in user to avoid abuses)
+- offer food or clothes
+- get a list of Restos du Coeur centers in the whereabouts
+- make a donation (secure money server)
+- how to offer help or time and where the needs are
+- get news about current gathering and special actions
+- register / login to prevent abuses (OpenId, Facebook, Google)
+- account administration (add and manage paiement possibilities)
+- informations about the current needs (donation, clocthes, help, food...)
+- informations on the Restos du Coeur's philosophy and missions, and how to contribute
